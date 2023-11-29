@@ -13,11 +13,3 @@ Minitab File: BuyerRatio.mtw
 
  Q4. TeleCall uses 4 centers around the globe to process customer order forms. They audit a certain %  of the customer order forms. Any error in order form renders it defective and has to be reworked before processing.  The manager wants to check whether the defective %  varies by centre. Please analyze the data at 5% significance level and help the manager draw appropriate inferences
 Minitab File: CustomerOrderForm.mtw
- 
-![image](https://github.com/Nikhilnagesh01/Hypothesis-Testing/assets/152181946/73137029-8045-48fe-9102-eb326c3815fd)
-
-![image](https://github.com/Nikhilnagesh01/Hypothesis-Testing/assets/152181946/965f057e-531d-4daa-a8bf-af7490f86058)
-
-![image](https://github.com/Nikhilnagesh01/Hypothesis-Testing/assets/152181946/22d258d6-734b-4eae-9de5-4262bf007823)
-
-![image](https://github.com/Nikhilnagesh01/Hypothesis-Testing/assets/152181946/9a0393d2-fde4-496b-83bd-d582df4f7f17)
